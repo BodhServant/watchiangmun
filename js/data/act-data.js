@@ -1,4 +1,19 @@
 var allActData = [
+    
+   {
+        "id": 1,
+        "lastUpdate": "2019-06-12T23:34:00.000+0000",
+        "image": "img/tbp.jpg",
+        "topic": "ขอเชิญชวนญาติธรรมทุกท่านร่วมทำบุญตักบาตร ทุกวันพระ",
+        "description": "",
+        "tag": [
+            "ศาสนา",
+            "วันพระ"
+        ],
+        "date": "04/11/2562",
+        "visible": true,
+        "temple_id": 1
+    },
       {
         "id": 4,
         "lastUpdate": "2019-06-12T23:34:00.000+0000",
@@ -10,20 +25,6 @@ var allActData = [
             "วันพระ"
         ],
         "date": "13/10/2562",
-        "visible": true,
-        "temple_id": 1
-    },
-   {
-        "id": 1,
-        "lastUpdate": "2019-06-12T23:34:00.000+0000",
-        "image": "img/tbp.jpg",
-        "topic": "ขอเชิญชวนญาติธรรมทุกท่านร่วมทำบุญตักบาตร ทุกวันพระ",
-        "description": "",
-        "tag": [
-            "ศาสนา",
-            "วันพระ"
-        ],
-        "date": "19/9/2562",
         "visible": true,
         "temple_id": 1
     }
